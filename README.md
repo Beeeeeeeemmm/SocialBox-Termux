@@ -1,5 +1,10 @@
 # SocialBox-Termux
 SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh
+
+[![Donate](https://img.shields.io/badge/Donate-Support%20Development-yellow.svg?style=for-the-badge)](https://github.com/samsesh/donate)
+
+> ⭐ If you find this tool useful, please consider starring the repository and [supporting the project](https://github.com/samsesh/donate)!
+
 # Installation
 ```
 apt-get update
@@ -20,9 +25,23 @@ chmod +x install-sb.sh
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=samsesh/SocialBox-Termux&type=Date)](https://star-history.com/#samsesh/SocialBox-Termux&Date)
-### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [doante page](https://github.com/samsesh/donate)
+## 💖 Support This Project
+
+If this project helps you with penetration testing and security research, please consider supporting its development!
+
+### Why Donate?
+- Helps maintain and improve the tool
+- Supports development of new features
+- Keeps the project free and open source
+
+### Donate Options
+- **[Donate Here](https://github.com/samsesh/donate)** - Support via various payment methods
+- ⭐ **Star this repository** - It helps more people discover this project
+- 🔄 **Share** - Tell others about SocialBox-Termux
+
+[![Donate](https://img.shields.io/badge/Donate-Support%20Development-yellow.svg)](https://github.com/samsesh/donate)
+
+Every contribution, no matter how small, is greatly appreciated! 🙏
 # for any os :
 * [socialbox](https://github.com/samsesh/SocialBox)
 # Contact

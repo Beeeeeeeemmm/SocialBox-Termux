@@ -29,6 +29,9 @@ echo "		▐█ ▀. ▪     ▐█ ▌▪██ ▐█ ▀█ ██•      ▐
 echo "		▄▀▀▀█▄ ▄█▀▄ ██ ▄▄▐█·▄█▀▀█ ██▪      ▐█▀▀█▄ ▄█▀▄  ·██· "
 echo "		▐█▄▪▐█▐█▌.▐▌▐███▌▐█▌▐█ ▪▐▌▐█▌▐▌    ██▄▪▐█▐█▌.▐▌▪▐█·█▌"
 echo -e "		 ▀▀▀▀  ▀█▄▀▪·▀▀▀ ▀▀▀ ▀  ▀ .▀▀▀     ·▀▀▀▀  ▀█▄▀▪•▀▀ ▀▀$nc $blue v2.beta$nc"
+echo -e "	   $Cyan━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━$nc"
+echo -e "	   $yellow💖 Support: github.com/samsesh/donate | ⭐ Star us!$nc"
+echo -e "	   $Cyan━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━$nc"
 #echo -e "	[+]              $red Coded By sam.sesh$nc         		   [+]"
 #echo -e "	[+] 		 $red samsesh.net $nc 		   [+]"
 #echo -e "	[+] 		 $red Greetz To All Pentesters$nc          		   [+]"
@@ -200,7 +203,19 @@ exit 1
 fi
 elif [ $ch == 99 ]; then
 echo -e "$red Program Exit ...$nc"
-sleep 0.25
+echo ""
+echo -e "$yellow┌─────────────────────────────────────────────────────┐$nc"
+echo -e "$yellow│$green        💖 Support SocialBox Development         $yellow│$nc"
+echo -e "$yellow├─────────────────────────────────────────────────────┤$nc"
+echo -e "$yellow│$nc  If this tool helped you, please consider:      $yellow│$nc"
+echo -e "$yellow│$nc  ⭐ Star the repository on GitHub               $yellow│$nc"
+echo -e "$yellow│$nc  💰 Donate: github.com/samsesh/donate           $yellow│$nc"
+echo -e "$yellow│$nc  🔄 Share with others                            $yellow│$nc"
+echo -e "$yellow│$nc                                                  $yellow│$nc"
+echo -e "$yellow│$green  Every contribution keeps this project alive!  $yellow│$nc"
+echo -e "$yellow└─────────────────────────────────────────────────────┘$nc"
+echo ""
+sleep 2
 exit 1
 else
 echo "Not Found 404 , Exit"
